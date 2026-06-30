@@ -111,9 +111,3 @@ These dashboards help HR teams:
 - Excel Automation
 - Data Visualization
 - Analytical Thinking
-
-## 👨‍💻 Author
-
-**Atharva Milmile**
-
-Aspiring Data Analyst | Excel | SQL | Python | Power BI | Machine Learning
